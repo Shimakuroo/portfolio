@@ -1,0 +1,62 @@
+.start{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+}
+
+.menu{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+}
+
+.imgPortfolio {
+    margin-top: 5%;
+    width: 50%;
+    height: auto;
+    image-rendering: pixelated; 
+}
+
+.boutonStart > img {
+    margin-top: 70%;
+    width: 10vw;
+    height: auto;
+    image-rendering: pixelated; 
+}
+
+.boutonExperience > img {
+    margin-top: 8vh;
+    width: 20vw;
+    height: auto;
+    image-rendering: pixelated; 
+}
+
+.boutonInteret > img {
+    margin-top: 15%;
+    width: 20vw;
+    height: auto;
+    image-rendering: pixelated; 
+}
+
+.boutonProjet > img {
+    margin-top: 15%;
+    width: 20vw;
+    height: auto;
+    image-rendering: pixelated; 
+}
+
+.boutonSkills > img {
+    margin-top: 15%;
+    width: 20vw;
+    height: auto;
+    image-rendering: pixelated; 
+}
+
+.perso > img {
+    width: 5vw;
+    height: auto;
+    image-rendering: pixelated; 
+
+}
